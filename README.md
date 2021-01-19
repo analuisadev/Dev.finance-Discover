@@ -1,2 +1,2 @@
-# Dev.finance-Discover
+# Dev.finance$-Discover
 Finance application
