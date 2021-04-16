@@ -11,7 +11,7 @@
 ![Screenshot_6](https://user-images.githubusercontent.com/71856519/115092960-ba9a9f80-9eef-11eb-986e-b23a2f8ca696.png)
 
 
-### Site Information 📝
+## Site Information 📝
 + Cash inflows and outflows
 + Total
 + Transactions
