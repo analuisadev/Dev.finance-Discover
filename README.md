@@ -1,5 +1,5 @@
 # Dev.finance$-Discover
-> Status: Complete ✔️
+> Status: Development
 
 ![Screenshot_4](https://user-images.githubusercontent.com/71856519/115091947-668fbb00-9eef-11eb-9be2-7396393ceb36.png)
 
